@@ -7,10 +7,6 @@
 
 - 📫 How to reach me **barkhaag2000@gmail.com**
 
-- 📄 Know about my experiences []() 
-
-- 🏆 My past work in Wipro
-
 
 <p align="left"></p>
 
